@@ -1356,4 +1356,21 @@ input[type="text"] {
     /* margin-left: 635px; */
 }
 
+.vartical-line {
+border-left: 4px solid #bbb;
+height: 166px;
+position: absolute;
+left: 81%;
+top: 0;
+}
+
+.fontst{
+font-size: 5.6rem;
+margin-bottom: 1.5rem;
+}
+
+body {
+   position: relative;
+}
+
 /*# sourceMappingURL=style.css.map */

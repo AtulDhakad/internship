@@ -846,15 +846,13 @@ $testemai = $sendgrid->send($sendgridemail);
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Our Partners</h2>
+					<h2>Our Portfolio</h2>
         <p style="color:rgba(255, 255, 255, 0.8);">We are in partnership with some of the best and most prestigious organizations in the world. Here are some of our top-class partners from the web.</p>
 				</div>
 			</div>
 
       <div class="row">
-
         <div class="col-md-2"></div>
-
         <div class="col-md-8">
 
         <div class="col-md-3">
@@ -884,8 +882,7 @@ $testemai = $sendgrid->send($sendgridemail);
         </div>
         </div>
         </div>
-
-        </div>
+</div>
 
 <div class="col-md-2"></div>
 
