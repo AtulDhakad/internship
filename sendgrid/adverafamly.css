@@ -1,0 +1,13 @@
+<style> 
+@font-face {
+  font-family: myFirstFont;
+  src: url(Stephanievas88_F_Bold.ttf);
+  font-weight: bold;
+}
+
+.adveramoneyfont {
+  font-family: myFirstFont;
+ color: black;
+ font: bold;
+}
+</style>
